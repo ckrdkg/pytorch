@@ -16,7 +16,7 @@ Pytorch : 연산의 정의와 동시에 값 초기화가 이루어짐
 4) cuDNN: CUDA를 이용해 딥러닝 연산을 가속시켜 주는 라이브러리
 
 # 2. Tensor
-##### Tensor: Numpy의 ndarray와 유사, GPU를 사용한 연간 가속 가능
+##### Tensor: Numpy의 ndarray와 유사, GPU를 사용한 가속 가능
 ![2020-12-08-23-11-58](https://user-images.githubusercontent.com/34912004/102002875-420ab300-3d44-11eb-9b97-54d55a635ade.png)
 
 초기화되지 않은 행렬 선언
