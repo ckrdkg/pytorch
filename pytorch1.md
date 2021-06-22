@@ -2,12 +2,12 @@
   
 가. 2017년 facebook이 개발한 오픈소스 머신러닝 라이브러리
 
-나. Defin by Run 방식
+나. Defin by Run 방식   
 
-1) Numpy vs Pytorch
-![image](https://user-images.githubusercontent.com/34912004/122864429-992ab980-d35f-11eb-98fa-4a493f8efb6e.png)
-2) Tensorflow vs Pytorch
-![image](https://user-images.githubusercontent.com/34912004/122864998-954b6700-d360-11eb-9a23-afacf08c82d5.png)
+1) Numpy vs Pytorch   
+![image](https://user-images.githubusercontent.com/34912004/122864429-992ab980-d35f-11eb-98fa-4a493f8efb6e.png)   
+2) Tensorflow vs Pytorch   
+![image](https://user-images.githubusercontent.com/34912004/122864998-954b6700-d360-11eb-9a23-afacf08c82d5.png)   
 Tensorflow : 모델을 먼저 만들고 그 후에 값을 따로 넣어주는 방식(Denfine and Run)   
 Pytorch : 연산의 정의와 동시에 값 초기화가 이루어짐
 
