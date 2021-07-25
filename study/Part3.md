@@ -36,6 +36,7 @@ https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md
 ![image](https://user-images.githubusercontent.com/34912004/126892741-9623c64c-5ff7-4cd2-a61b-ee7ea17a945f.png)
 - input image는 224x224로 고정
 - train set에 대한 input image preprocessing에서 mean RGB value를 빼준다.
+    - why? -> Computational and bias reason
 - 모든 layer에 3x3 conv filter (모델에 따라 1x1 filter가 추가된 것도 있음)
 - Pooling layer는 5개이며, 2x2이고 stride = 2
 - FC layer는 4096 channel
