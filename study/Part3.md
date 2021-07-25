@@ -27,8 +27,8 @@ https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md
     - 특징을 잘 뽑아냄.
         - 특정한 모양을 더 잘 인식할 수 있음
 # 2. VGGNet
-![image](https://user-images.githubusercontent.com/34912004/126892728-5fdb4715-89c4-4301-9518-72cda96a07f0.png)
-가. ILSVRC 2014에 등장 (ImageNet Large Scale Visual Recognition Challenge)   
+![image](https://user-images.githubusercontent.com/34912004/126892728-5fdb4715-89c4-4301-9518-72cda96a07f0.png)   
+가. ILSVRC 2014에 등장 (ImageNet Large Scale Visual Recognition Challenge)    
 나. 강조 키워드   
 - 3x3 filter를 통해 layer 개수를 deep하게 늘렸고 이것이 large-scale image recognition에서도 좋은 결과를 얻었다.
 
